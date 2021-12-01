@@ -1,0 +1,1 @@
+para trocar o texto, basta entrar em redes.py e alterar o nome do arquivo na linha 14.
